@@ -1,1 +1,1 @@
-Roses are red.
+Roses are white.
